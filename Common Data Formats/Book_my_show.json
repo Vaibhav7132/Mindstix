@@ -1,0 +1,145 @@
+{
+    "book_my_show" : 
+    {
+        "city" : "Pune",
+        "recommended_movies" :
+        [
+            {
+                "name" : "Ved",
+                "rating" : "9.5/10",
+                "votes" : "28.7K",
+                "screen" : ["2D"],
+                "language" : ["Marathi"],
+                "duration" : "2h 28m",
+                "type" : ["Drama","Romantic"],
+                "release_date" : "30 Dec, 2022",
+                "about_movie" : "Satya lives in a railway colony who dreams of playing for the railway cricket team and eventually representing Team India. Soon he falls madly in love with Nisha. However, Satya`s life takes a drastic change when a local Politician Bhaskar creates havoc in his personal and professional life. 12 Years Later, Satya is a drunk miserable man hopelessly waiting for his love. He is married to Shravani who has been crazily in love with Satya since her childhood. Who`s love has more madness - Satya or Shravani?",
+                "cast" : 
+                [
+                    {
+                        "name" : "Ritesh Deshmukh",
+                        "character_name" : "Satya",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/riteish-deshmukh-25378-13-09-2017-04-40-50.jpg"
+                    },
+                    {
+                        "name" : "Genelia Deshmukh",
+                        "character_name" : "Shravani",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/genelia-d-souza-730-24-03-2017-17-29-08.jpg"
+                    },
+                    {
+                        "name" : "Jiya Shankar",
+                        "character_name" : "Nisha",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jiya-shankar-2023130-1666841378.jpg"
+                    }
+                ],
+                "crew" :
+                [
+                    {
+                        "name" : "Ritesh Deshmukh",
+                        "type" : ["Director"],
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/riteish-deshmukh-25378-13-09-2017-04-40-50.jpg"
+                    }
+                ],
+                "top_reviews" : "18K reviews"
+            },
+            {
+                "name" : "Avatar:The Way of Way",
+                "rating" : "8.7/10",
+                "votes" : "191.3K",
+                "screen" : ["2D","3D","3D SCREEN X","4DX 3D","IMAX 3D"],
+                "language" : ["English","Hindi","Kannada","Malayalam","Tamil","Telugu"],
+                "duration" : "3h 12m",
+                "type" : ["Action","Adventure","Fantasy","Sci-Fi"],
+                "release_date" : "16 Dec, 2022",
+                "about_movie" : "Set more than a decade after the events of the first film, Avatar The Way of Water begins to tell the story of the Sully family (Jake, Neytiri and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive and the tragedies they endure.",
+                "cast" : 
+                [
+                    {
+                        "name" : "Sam Worthington",
+                        "character_name" : "Jake Sully",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sam-worthington-12089-24-03-2017-12-32-07.jpg"
+                    },
+                    {
+                        "name" : "Zoe Saldana",
+                        "character_name" : "Neytiri",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/zoe-saldana-3261-13-10-2017-03-54-34.jpg"
+                    },
+                    {
+                        "name" : "Sigourney Weaver",
+                        "character_name" : "Grace",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sigourney-weaver-3258-24-03-2017-17-32-08.jpg"
+                    },
+                    {
+                        "name" : "Stephen Lang",
+                        "character_name" : "Miles Quaritch",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/stephen-lang-15008-24-03-2017-12-44-36.jpg"
+                    },
+                    {
+                        "name" : "Cliff Curtis",
+                        "character_name" : "Tonowari",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/cliff-curtis-462-02-02-2018-01-25-37.jpg"
+                    },
+                    {
+                        "name" : "Joel David Moore",
+                        "character_name" : "Norm Spellman",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/joel-david-moore-27580-1665731153.jpg"
+                    }
+                ],
+                "crew" : 
+                [
+                    {
+                        "name" : "James Cameron",
+                        "type" : ["Director","Writer"],
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/james-cameron-5030-13-09-2017-01-57-54.jpg"
+                    },
+                    {
+                        "name" : "Amanda Silver",
+                        "type" : ["Writer"],
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/amanda-silver-1063443-07-07-2017-12-08-48.jpg"
+                    },
+                    {
+                        "name" : "Rick Jaffa",
+                        "type" : ["Writer"],
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/rick-jaffa-1063444-07-07-2017-12-08-07.jpg"
+                    }
+                ],
+                "top_reviews" : "107.1K reviews"  
+            },
+            {
+                "name" : "Vaalvi",
+                "rating" : "9.2/10",
+                "votes" : "1.2K",
+                "screen" : ["2D"],
+                "language" : ["Marathi"],
+                "duration" : "1h 46m",
+                "type" : ["Drama","Comedy"],
+                "release_date" : "13 Jan, 2023",
+                "about_movie" : "Vaalvi is a dark comedy that explores the profound human nature involving selfishness, apathy and self-preservation.",
+                "cast" : 
+                [
+                    {
+                        "name" : "Subodh Bhave",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/subodh-bhave-2260-28-08-2018-11-45-45.jpg"
+                    },
+                    {
+                        "name" : "Anita Date",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/anita-date-15144-24-03-2017-17-39-12.jpg"
+                    },
+                    {
+                        "name" : "Shivani Surve",
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shivani-surve-1057553-24-03-2017-16-17-45.jpg"
+                    }
+                ],
+                "crew" :
+                [
+                    {
+                        "name" : "Paresh Mokashi",
+                        "type" : ["Director"],
+                        "image" : "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/paresh-mokashi-15593-24-03-2017-12-55-51.jpg"
+                    }
+                ],
+                "top_reviews" : "814 reviews"
+            },
+        ] 
+    }
+}

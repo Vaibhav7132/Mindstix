@@ -1,0 +1,126 @@
+<book_my_show>
+    <city>Pune</city>
+        <recommended_movies>
+            <movie_1>
+                <name>Ved<name>
+                <rating>9.5/10</rating>
+                <votes>28.7K</votes>
+                <screen>2D</screen>
+                <language>Marathi</language>
+                <duration>2h 28m</duration>
+                <type>Drama</type>
+                <type>Romantic</type>
+                <release_date>30 Dec, 2022</release_date>
+                <about_movie>Satya lives in a railway colony who dreams of playing for the railway cricket team and eventually representing Team India. Soon he falls madly in love with Nisha. However, Satya`s life takes a drastic change when a local Politician Bhaskar creates havoc in his personal and professional life. 12 Years Later, Satya is a drunk miserable man hopelessly waiting for his love. He is married to Shravani who has been crazily in love with Satya since her childhood. Who`s love has more madness - Satya or Shravani?</about_movie>
+                <cast>
+                    <cast_1>
+            
+                        <name>Ritesh Deshmukh</name>
+                        <character_name>Satya</character_name>
+                        <image> https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/riteish-deshmukh-25378-13-09-2017-04-40-50.jpg
+                        </image>
+                    </cast_1>
+                    <cast_2>
+                        <name>Genelia Deshmukh</name>
+                        <character_name>Shravani</character_name>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/genelia-d-souza-730-24-03-2017-17-29-08.jpg"
+                        </image>
+                    </cast_2>
+                    <cast_3>
+                        <name>Jiya Shankar</name>
+                        <character_name>Nisha</character_name>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jiya-shankar-2023130-1666841378.jpg"
+                        </image>
+                    </cast_3>
+                </cast>
+                <crew>
+                    <crew_1>
+                        <name>Ritesh Deshmukh</name>
+                        <type>Director</type>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/riteish-deshmukh-25378-13-09-2017-04-40-50.jpg"
+                        </image>
+                    </crew_1>
+                </crew>
+                <top_reviews>18K reviews</top_reviews>
+            </movie_1>
+
+            <movie_2>
+                <name>Avatar:The Way of Way<name>
+                <rating>8.7/10</rating>
+                <votes>191.3K</votes>
+                <screen>2D</screen>
+                <screen>3D</screen>
+                <screen>4DX 3D</screen>
+                <language>Hindi</language>
+                <language>English</language>
+                <language>Kannada</language>
+                <language>Tamil</language>
+                <duration>3h 12m</duration>
+                <type>Action</type>
+                <type>Adventure</type>
+                <type>Fantasy</type>
+                <release_date>16 Dec, 2022</release_date>
+                <about_movie>Set more than a decade after the events of the first film, Avatar The Way of Water begins to tell the story of the Sully family (Jake, Neytiri and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive and the tragedies they endure</about_movie>
+                <cast>
+                    <cast_1>
+                        <name>Sam Worthington</name>
+                        <character_name>Jake Sully</character_name>
+                        <image> https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sam-worthington-12089-24-03-2017-12-32-07.jpg
+                        </image>
+                    </cast_1>
+                    <cast_2>
+                        <name>Zoe Saldana</name>
+                        <character_name>Neytiri</character_name>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/zoe-saldana-3261-13-10-2017-03-54-34.jpg"
+                        </image>
+                    </cast_2>
+                    <cast_3>
+                        <name>Sigourney Weaver</name>
+                        <character_name>Grace</character_name>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sigourney-weaver-3258-24-03-2017-17-32-08.jpg"
+                        </image>
+                    </cast_3>
+                    <cast_4>
+                        <name>Stephen Lang</name>
+                        <character_name>Miles Quaritch</character_name>
+                        <image> https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/stephen-lang-15008-24-03-2017-12-44-36.jpg
+                        </image>
+                    </cast_4>
+                    <cast_5>
+                        <name>Cliff Curtis</name>
+                        <character_name>Tonowari</character_name>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/cliff-curtis-462-02-02-2018-01-25-37.jpg"
+                        </image>
+                    </cast_5>
+                    <cast_6>
+                        <name>Joel David Moore</name>
+                        <character_name>Norm Spellman</character_name>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/joel-david-moore-27580-1665731153.jpg"
+                        </image>
+                    </cast_6>
+                </cast>
+                <crew>
+                    <crew_1>
+                        <name>James Cameron</name>
+                        <type>Director</type>
+                        <type>Writer</type>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/james-cameron-5030-13-09-2017-01-57-54.jpg"
+                        </image>
+                    </crew_1>
+                    <crew_2>
+                        <name>Amanda Silver</name>
+                        <type>Writer</type>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/amanda-silver-1063443-07-07-2017-12-08-48.jpg"
+                        </image>
+                    </crew_2>
+                    <crew_3>
+                        <name>Rick Jaffa</name>
+                        <type>Writer</type>
+                        <image>https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/rick-jaffa-1063444-07-07-2017-12-08-07.jpg"
+                        </image>
+                    </crew_3>
+                </crew>
+                <top_reviews>107.1K reviews</top_reviews>
+            </movie_2>
+        </recommended_movies>
+</book_my_show>
